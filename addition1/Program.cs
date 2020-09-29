@@ -12,6 +12,7 @@ namespace addition
         {
             int a, b, result;
             Console.WriteLine("Enter a value");
+            Console.WriteLine("welcome");
             a = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter b value");
             b = Convert.ToInt32(Console.ReadLine());
